@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### <img src="https://raw.githubusercontent.com/midudev/codi.link/main/assets/favicon.ico" height="30px"/> [Codi.link](https://codi.link)
+  ### <img src="https://lh3.googleusercontent.com/a-/AFdZucpxSVNxnToAvjH_PaXD_zjU6n1iU1yrDzh1MJ4geg=s96-c-rg-br100" height="30px"/> [ryaxcode](https://ryaxcode.ga)
   
   ***Your HTML5/CSS3/JS/JavaScript Playground Editor***
 </div>
